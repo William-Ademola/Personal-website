@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 import vercel from "@astrojs/vercel/serverless";
 import unocss from "unocss/astro";
 // @ts-ignore
-import vesper from "./src/lib/poimandres.json";
+import poimandres from "./src/lib/poimandres.json";
 
 export default defineConfig({
   site: "https://www.nexxel.dev",
