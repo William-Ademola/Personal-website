@@ -27,5 +27,5 @@ export default defineConfig({
     port: 6969
   },
   // @ts-expect-error
-  markdown: { shikiConfig: { theme: vesper, wrap: true } },
+  markdown: { shikiConfig: { theme: poimandres, wrap: true } },
 });
