@@ -1,7 +1,7 @@
 ---
-title: "How I Organise My Life"
-description: "In this post, I share the apps and the simplistic approach I use to organise my life."
-date: "August 3, 2023"
+title: "Test content"
+description: "just test."
+date: "May 14, 2024"
 ---
 
 import Link from "../../components/Link.vue";
