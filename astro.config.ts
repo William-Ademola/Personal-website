@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 import vercel from "@astrojs/vercel/serverless";
 import unocss from "unocss/astro";
 // @ts-ignore
-import vesper from "./src/lib/vesper.json";
+import vesper from "./src/lib/poimandres.json";
 
 export default defineConfig({
   site: "https://www.nexxel.dev",
@@ -27,5 +27,5 @@ export default defineConfig({
     port: 6969
   },
   // @ts-expect-error
-  markdown: { shikiConfig: { theme: vesper, wrap: true } },
+  markdown: { shikiConfig: { theme: poimandres, wrap: true } },
 });
