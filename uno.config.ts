@@ -11,7 +11,7 @@ export default defineConfig({
   transformers: [transformerDirectives(), transformerVariantGroup()],
   theme: {
     colors: {
-      "neutral-850": "#1f1f1f",
+      "neutral-850": "#be2596",
     },
     fontFamily: {
       sans: "Switzer",
