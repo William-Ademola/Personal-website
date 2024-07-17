@@ -35,7 +35,7 @@ export async function getProjects(): Promise<Project[]> {
     {
       repo: "Product-recommendation-system",
       link: "https://github.com/Williams-Ademola/Product-recommendation-system",
-      description: "Using Java to analyze user behavior and preferences to suggest relevant content, enhancing user engagement",
+      description: "Using Java to analyze user behavior and preferences to suggest relevant content.",
     },
     {
       repo: "spotify-voice-control",
