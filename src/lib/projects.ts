@@ -33,9 +33,9 @@ export async function getProjects(): Promise<Project[]> {
       description: "Boring personal site built with Astro",
     },
     {
-      repo: "license-generator",
-      link: "https://github.com/nexxeln/license-generator",
-      description: "Create licenses for your projects right from your terminal",
+      repo: "Product-recommendation-system",
+      link: "https://github.com/Williams-Ademola/Product-recommendation-system",
+      description: "Using Java to analyze user behavior and preferences to suggest relevant content, enhancing user engagement",
     },
     {
       repo: "spotify-voice-control",
@@ -51,6 +51,11 @@ export async function getProjects(): Promise<Project[]> {
       repo: "dots",
       link: "https://github.com/nexxeln/dots",
       description: "My dotfiles for MacOS",
+    },
+    {
+      repo: "File-Based-Router",
+      link: "https://github.com/Williams-Ademola/File-Based-Router",
+      description: "File based routing with Golang",
     },
   ];
 }
