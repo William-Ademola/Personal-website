@@ -25,7 +25,7 @@ export async function getProjects(): Promise<Project[]> {
     {
       repo: "Light-pollution-detection",
       link: "https://github.com/Williams-Ademola/Light-pollution-detection",
-      description: "measuring intensity of light pollution in varying location in winnipeg",
+      description: "Measuring intensity of light pollution in varying location in winnipeg",
     },
     {
       repo: "nexxel.dev",
