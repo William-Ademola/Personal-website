@@ -23,9 +23,9 @@ export type Project = z.infer<typeof projectSchema>;
 export async function getProjects(): Promise<Project[]> {
   return [
     {
-      repo: "create-t3-app",
-      link: "https://github.com/nexxeln/create-t3-app",
-      description: "The best way to start a full-stack, typesafe Next.js app",
+      repo: "Light-pollution-detection",
+      link: "https://github.com/Williams-Ademola/Light-pollution-detection",
+      description: "measuring intensity of light pollution in varying location in winnipeg",
     },
     {
       repo: "nexxel.dev",
