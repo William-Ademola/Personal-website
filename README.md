@@ -1,4 +1,4 @@
-personal website and blog of nexxel. inspired by [zaduma](https://github.com/hasparus/zaduma).
+personal website and blog of william. inspired by nexxel.
 
 **tech stack**
 
